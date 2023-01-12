@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1030037629975",
+    "firebase_url": "https://mycafe-11acd-default-rtdb.firebaseio.com",
+    "project_id": "mycafe-11acd",
+    "storage_bucket": "mycafe-11acd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030037629975:android:cdbcbe9e4840c3cda54052",
+        "android_client_info": {
+          "package_name": "com.example.mycafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030037629975-4h7hgo03im2q78tbpm514fo261gdrghs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6qCdldnpq72BZLYiUe4XukFigNmAJnoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030037629975-4h7hgo03im2q78tbpm514fo261gdrghs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
